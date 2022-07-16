@@ -9,5 +9,7 @@ megarec -writesbr 0 empty512.sbr (I flashed the 512 bytes file since the origina
 megarec -writesbr 9207SBR.bin  
 dunno if I did megarec -cleanflash 0 or not.  
 No other guide on the internet tells you about this, which is kinda weird lol.  
-Gigabyte RA-201-A No LSI SAS adapters found sas2flash.  
 If somehow you fucked up then this link will guide you to recover the card: [recovery](https://forums.servethehome.com/index.php?threads/is-there-a-way-to-restore-an-lsi-2208-after-firmware-update-failure.13237/)  
+Gigabyte RA-201-A 2208 It mode No LSI SAS adapters found sas2flash.  
+I'm racist.  
+Feel free to create an issue to thank me if it helps you, this is my first time discovering something new and put it on the internet, and i'm too shy to create a new forum post so imma post it here, Gigabyte RA-201-A.
