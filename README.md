@@ -1,4 +1,4 @@
-# Sas2flash_shenanigans
+# 2208-IT-MODE-RA-201-A Sas2flash shenanigans
 The 7z file contain all sas2flash DOS and EFI files I could find, it's probably not complete but it covers many old sas2flash version in case it gets finicky with your card.  
 (I will spam Gigabyte RA-201-A in this post, a lot, since I coudln't find any information regarding flashing this card, so that other people with the same Gigabyte RA-201-A can find this post)  
 I wasted 5 days trying to flash my Gigabyte RA-201-A (rev 2.0) to IT mode using Sas2flash, but all I can get was "No LSI SAS adapters found!" no matter what i tried.  
